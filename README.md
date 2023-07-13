@@ -1,6 +1,6 @@
 ![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Coding-Website-Layout.jpg)
 <h1 align="center">Hi 👋, I'm Arkaprava Chakraborty</h1>
-<h3 align="center">Zealous Frontend Developer from India</h3>
+<h3 align="center">Zealous Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkaprava31&label=Profile%20views&color=0e75b6&style=flat" alt="arkaprava31" /> </p>
 
